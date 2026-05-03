@@ -59,8 +59,8 @@ Git, Azure DevOps, Figma, Netlify
 ## 🔗 Connect with Me
 
 - 📧 Email: mandeepkumarsalhan@gmail.com  
-- 💻 GitHub:  [View my profile](https://github.com/MandeepKumarSalhan)  
-- 🔗  LinkedIn: [View my profile](https://www.linkedin.com/in/mandeep-salhan-a5668137a)
+- 💻 GitHub:  [Mandeep Salhan](https://github.com/MandeepKumarSalhan)  
+- 🔗  LinkedIn: [MAndeep Salhan](https://www.linkedin.com/in/mandeep-salhan-a5668137a)
 
 ---
 
