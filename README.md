@@ -1,6 +1,6 @@
 # Hi, I'm Mandeep Kumar Salhan 👋
 Welcome to my GitHub profile!
-I'm a passionate **Full-Stack Developer in progress**, focused on building real-world applications using modern technologies. I enjoy solving problems, learning new tools, and gradually moving towards **AI-powered applications, embedded systems, and secure development**.
+I'm a passionate **Full-Stack Developer**, focused on building real-world applications using modern technologies. I enjoy solving problems, learning new tools, and gradually moving towards **AI-powered applications, embedded systems, and secure development**.
 
 Feel free to explore my repositories, give a ⭐ if something helps you, or connect with me!
 
@@ -59,8 +59,8 @@ Git, Azure DevOps, Figma, Netlify
 ## 🔗 Connect with Me
 
 - 📧 Email: mandeepkumarsalhan@gmail.com  
-- 💻 GitHub: https://github.com/MandeepKS  
-- 🔗 LinkedIn: https://www.linkedin.com/in/mandeep-salhan-a5668137a  
+- 💻 GitHub:  [View my profile](https://github.com/MandeepKumarSalhan)  
+- 🔗  LinkedIn: [View my profile](https://www.linkedin.com/in/mandeep-salhan-a5668137a)
 
 ---
 
